@@ -1,7 +1,7 @@
 # Our Team Top 10
 
 1. Rocket League
-2. TBD
+2. Catan
 3. TBD
 4. TBD
 5. TBD
